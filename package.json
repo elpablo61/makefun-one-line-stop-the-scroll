@@ -1,0 +1,1 @@
+{"description":"One line of text that makes a stranger stop scrolling and smile — make.fun bounty entry","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-one-line-stop-the-scroll","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
